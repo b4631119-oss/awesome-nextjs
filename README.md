@@ -5,7 +5,6 @@
    A curated list of awesome things related to <a href='https://nextjs.org/'>Next.js</a>
   </p>
 </div>
-
 <div align="center">
 <a href="https://nextjs.batchtool.com/?utm_source=github">
 <img src="./assets/nextjs-starter-directory.png" alt="og of nextjs-starter-directory" height="100%" width="100%">
@@ -46,7 +45,6 @@
 - [Nextjs Starter Kit](https://github.com/datocms/nextjs-starter-kit) - This project aims to be a great starting point for your Next.js projects that need to interact with DatoCMS.
 
 ## AI
-
 - [RoomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI.
 - [AI Chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel.
 - [Llm Answer Engine](https://github.com/developersdigest/llm-answer-engine) - Build a Perplexity-Inspired Answer Engine Using Next.js, Groq, Llama-3, Langchain, OpenAI, Upstash, Brave & Serper.
