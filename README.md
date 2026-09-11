@@ -10,9 +10,7 @@
 <img src="./assets/nextjs-starter-directory.png" alt="og of nextjs-starter-directory" height="100%" width="100%">
 </a>
 </div>
-
 ## Starter
-
 - [Tailwind Nextjs Starter Blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) - This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfect as a replacement to existing Jekyll and Hugo individual blogs.
 - [Platforms](https://github.com/vercel/platforms) - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API.
 - [Next Forge](https://github.com/haydenbleasel/next-forge) - Production-grade Turborepo template for Next.js apps.
